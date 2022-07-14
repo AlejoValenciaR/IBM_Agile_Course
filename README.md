@@ -1,1 +1,1 @@
-# IBM_Agile_Course
+# lab-agile-planning
